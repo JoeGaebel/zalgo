@@ -4,12 +4,13 @@ From knowyourmeme.com:
 "Zalgo is an Internet legend about an ominous entity... similar to the creature Cthulhu created by H.P. Lovecraft in the 1920s. Zalgo is often associated with scrambled text on webpages"<br><br>
 While working on a Unix POSIX socket project, I wanted a way to test client-server communcation in a creative and stand-out way, and so working off of online algorithms, and developing some of my own for the C++ port, I developed this header file.
 
-<h1>Usage</h1>
+Usage
 </hr>
-
+<code>
 #include "zalgo.h"<br>
 Zalgo zalgo;<br>
 cout << zalgo.zalgo("Text to be hive-minded");   <br>
+</code>
 
 <h1>Result</h1>
 </hr>
