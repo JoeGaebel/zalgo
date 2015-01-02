@@ -7,7 +7,7 @@ While working on a Unix POSIX socket project, I wanted a way to test client-serv
 #Usage
 include "zalgo.h"<br>
 Zalgo zalgo;<br>
-string converted = zalgo.zalgo("Text to be hive-minded");   <br>
+string converted = zalgo.zalgo("Text to be hive-minded");   <br><br><br>
 
 #
 <hr>
