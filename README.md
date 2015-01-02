@@ -5,12 +5,9 @@ From knowyourmeme.com:
 While working on a Unix POSIX socket project, I wanted a way to test client-server communcation in a creative and stand-out way, and so working off of online algorithms, and developing some of my own for the C++ port, I developed this header file.
 
 Usage
-</hr>
-<code>
-#include "zalgo.h"<br>
+#include "zalgo.h"
 Zalgo zalgo;<br>
 cout << zalgo.zalgo("Text to be hive-minded");   <br>
-</code>
 
 <h1>Result</h1>
 </hr>
